@@ -1,2 +1,1 @@
-# MovieWorld React tmdbAPI 
- 
+![ScreenShot](./src/assets/ekran.jpg)

@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="footer__content container">
         <div className="footer__content__logo">
           <div className="logo">
-            <Link to={`/${Config.HOME_PAGE}`}>MovieWorld🪐</Link>
+            <Link to={`/${Config.HOME_PAGE}`}>MovieWorld</Link>
           </div>
         </div>
 

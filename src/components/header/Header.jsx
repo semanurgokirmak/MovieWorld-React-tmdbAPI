@@ -50,7 +50,7 @@ const Header = () => {
       <div className="header__wrap container">
         <div className="logo">
           <Link to={`/${Config.HOME_PAGE}`}>
-            🪐<span>MovieWorld</span>
+            <span>MovieWorld</span>
           </Link>
         </div>
 
